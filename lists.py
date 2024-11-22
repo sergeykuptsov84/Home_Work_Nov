@@ -12,5 +12,5 @@ food.remove('apple')
 print(food)
 print('coconut' in food, 'perch' in food)
 print(food[0:2])
-set = input('Enter')
+set = input('Enter for exit:')
 
